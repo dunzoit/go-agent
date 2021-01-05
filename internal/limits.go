@@ -26,7 +26,7 @@ const (
 	maxStackTraceFrames = 100
 	// MaxTxnErrors is the maximum number of errors captured per
 	// transaction.
-	MaxTxnErrors      = 5
+	MaxTxnErrors      = 1
 	maxTxnSlowQueries = 10
 
 	startingTxnTraceNodes = 16
