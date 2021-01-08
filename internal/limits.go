@@ -44,7 +44,7 @@ const (
 	maxRegularTraces    = 1
 	maxSyntheticsTraces = 20
 	maxErrorEvents      = 100
-	maxHarvestErrors    = 20
+	maxHarvestErrors    = 100
 	maxHarvestSlowSQLs  = 10
 	maxSpanEvents       = 1000
 
